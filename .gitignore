@@ -1,0 +1,14 @@
+# group project lives in its own repo
+grupo-18/
+
+# secrets
+ssh_key.txt
+ssh_key.txt.pub
+*.pem
+.env
+
+# duplicates / archives / OS files
+*.zip
+local-environment 2/
+local-environment 4/
+.DS_Store
